@@ -1,10 +1,9 @@
 # Kurs Xamarin
 
 [![Join the chat at https://gitter.im/amis92/xamarin-course-info](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/amis92/xamarin-course-info?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-Informacje dotyczące kursu Xamarin Grupy .NET PW
 
 ##Podstawy
-To repozytorium służy jako centrum informacyjne dla uczestników kursu.
+To repozytorium służy jako centrum informacyjne dla uczestników kursu Xamarin Grupy .NET PW.
 
 ##Przygotowanie
 Aby w pełni uczestniczyć w kursie, należy mieć licencję studencką Xamarin i zainstalowany Xamarin dla Windows, w tym dodatek do Visual Studio.
